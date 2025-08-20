@@ -15,9 +15,9 @@ Dataset
 The dataset (sourced from Kaggle) includes metrics such as job satisfaction, performance ratings, tenure, salary, and demographics. These factors were preprocessed and cleaned in Excel before being modeled and visualized in Power BI.
 
 Tools Used
-Power BI → Interactive dashboards and visualizations
+Power BI - Interactive dashboards and visualizations
 
-Excel → Data preprocessing and cleaning
+Excel - Data preprocessing and cleaning
 
 Visualizations
 Attrition by Department – Department-level turnover analysis
